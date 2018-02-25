@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PerfectDiamond</string>
+    <string name="company_name">Perfect Diamond</string>
+    <string name="address">Barbaros Mah. Ardic Sk. No:1 Atasehir/Istanbul </string>
+    <string name="phone_number">0216 100 20 30</string>
+    <string name="message">Because every woman deserves the perfect sparkle...</string>
+    <string name="description">We sell the perfect diamonds with elegant design.</string>
+</resources>
